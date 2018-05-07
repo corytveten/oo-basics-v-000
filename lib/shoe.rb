@@ -1,4 +1,4 @@
-class shoe
+class scan(/pattern/) { |match|  }hoe
   attr_reader :brand
 
   def initialize(brand)
